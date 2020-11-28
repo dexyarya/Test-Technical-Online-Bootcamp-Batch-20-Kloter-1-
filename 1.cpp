@@ -10,7 +10,7 @@ int main(){
 	double WaktuOlahraga;
 	int n = 20;
 	int a = 2;
-	double x;
+	
 
 	cout<<"Masukan Jumlah Kalori = "<<endl;
 	cin>>JumlahKalori;
